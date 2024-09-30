@@ -1,0 +1,4 @@
+string door
+string status
+---
+bool success
